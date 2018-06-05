@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset='utf-8'>
+		<title='MotherFucking Website'>
+	</head>
+
+	<body>
+	<h1>This is a motherfucking website.</h1>
+	<p>And it's fucking perfect.</p>
+
+	<h2>Seriously</h2>
+	<p>You machin machin</p>
+	<ul>
+		<li>liste</li>
+		<li>uaie</li>
+		<li>auiea</li>
+		<li>auiea</li>
+		<li>auie</li>
+		<li>aiue</li>
+	</ul>
+	<h3>titre </h3>
+	<p>paragraphe truc</p>
+	
+	<h2>titre </h2>
+	<p>paragraphe truc</p>
+	
+	<h2>titre </h2>
+	<p>paragraphe truc</p>
+	
+	<h2>titre </h2>
+	<p>paragraphe truc</p>
+	<p>paragraphe truc</p>
+	<p>paragraphe truc</p>
+	
+	<h2>titre </h2>
+	<p>paragraphe truc</p>
+	<h3>titre </h3>
+	<p>paragraphe truc</p>
+
+	<!-- n'a pas pu trouver la technique pour mettre la citation en décalé sans CSS donc recopiage -->
+	   <blockquote cite="https://www.vitsoe.com/us/about/good-design">"Good design is as little design as possible."<br>
+            - some German motherfucker
+        </blockquote>
+
+	<hr>
+
+	<h2>Epilogue</h2>
+	<p>Dernier paragraphe, c'est réeelement horrible de recopier le texte, d'où les paragraphes truc</p>
+	</body>
+</htlm>
+
+
+
+	
